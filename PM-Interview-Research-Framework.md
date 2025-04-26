@@ -1,112 +1,79 @@
-# [Company Name]
+# PM Job Interview Research Framework
 
-# Company
+Please research and analyze [Company Name] using the following Product Manager interview preparation framework. Focus on providing accurate, well-sourced information and use web search for the sections marked [SEARCH].
 
-# Business Fundamentals
-* Revenue Model: [How do they make money? What's their pricing structure?]
-* Market Position: [Where do they sit in their market? Leader, challenger, etc.?]
-* Recent News: [Last 6-12 months of significant company events]
-* Growth Strategy: [Public statements about company direction]
-* Company Values: [Cultural values and how they manifest in product decisions]
+## Company Analysis
 
-## Market Analysis
-* Total Addressable Market: [Size of the overall market opportunity]
-* Market Trends: [Key shifts in the industry]
-* Regulatory Environment: [Key regulations affecting the product/market]
-* Geographic Considerations: [Regional differences in market approach]
-* Seasonal Factors: [How timing affects the business]
+### Business Fundamentals
+* Revenue Model: What are their primary revenue streams and pricing structure?
+* Market Position: Where do they stand in their market (leader, challenger, niche player)?
+* Recent News: [SEARCH] What significant company events have occurred in the past 3-6 months?
+* Growth Strategy: What are their stated plans for company direction and expansion?
+* Company Values: How do their cultural values manifest in product decisions?
 
-## Competitive Landscape
-* Direct Competitors: [Similar products targeting same customers]
-* Indirect Competitors: [Alternative solutions to the same problem]
-* Competitive Advantages: [What makes each player unique]
-* Market Share Distribution: [How is the market divided]
-* Recent Competitive Moves: [New features, pricing changes, etc.]
+### Market Analysis
+* Total Addressable Market: What is the size and scope of their market opportunity?
+* Market Trends: [SEARCH] What key shifts in the industry are affecting their business?
+* Regulatory Environment: [SEARCH] What major regulations impact their products/market?
+* Geographic Considerations: Are there regional differences in their market approach?
+* Seasonal Factors: How do timing or seasonal patterns affect their business?
 
-## People & Leadership
-* Leadership Background: [Professional history and philosophy of executive team]
-* Product Leadership: [Background and public presence of product leaders]
-* Founder History: [Relevant background and current involvement]
-* Executive Changes: [Recent additions or departures in leadership]
-* Board Influence: [Key board members and their impact on direction]
+### Competitive Landscape
+* Direct Competitors: Who offers similar products targeting the same customers?
+* Indirect Competitors: What alternative solutions address the same problems?
+* Competitive Advantages: What distinguishes each key player in this space?
+* Market Share: How is the market divided among competitors?
+* Recent Competitive Moves: [SEARCH] What notable product launches, features, or pricing changes have competitors made?
 
-## Financials
-* Company Type: [Public, Private Equity-owned, Startup, or Private]
-* If Public → Stock Trends: [Historical and recent stock performance]
-* If Public → Earnings History: [Key metrics from recent quarterly reports]
-* If PE → Owner Profile: [Which PE firm, their strategy, hold period, portfolio synergies]
-* If Startup → Funding Stage: [Current funding round and total raised]
-* Acquisition Record: [History and strategy of company acquisitions]
+### People & Leadership
+* Leadership Background: What is the professional history of the executive team?
+* Product Leadership: Who leads their product organization and what is their background?
+* Founder History: What is the founders' background and current involvement?
+* Executive Changes: [SEARCH] Have there been recent additions or departures in leadership?
+* Board Influence: Who are the key board members and what perspective do they bring?
 
-## Media
-* Public Communications: [Official company statements, press releases, interviews]
-* Press Coverage: [Recent media coverage and company response]
-* Social Discussions: [What people are saying on Reddit, X/Twitter, public forums]
-* Brand Perception: [Overall market and user view of brand]
+### Financials
+* Company Type: Is it Public, Private Equity-owned, Startup, or Private?
+* If Public: [SEARCH] What are the key metrics from their most recent quarterly reports?
+* If Startup: [SEARCH] What is their current funding stage and total raised?
+* Acquisition History: What significant acquisitions have they made and why?
 
-# Product
+### Media & Social Perception
+* Public Communications: [SEARCH] What messages appear in recent company statements and interviews?
+* Press Coverage: [SEARCH] How has media coverage portrayed the company recently?
+* Social Discussions: [SEARCH] What are users saying on platforms like Reddit, X/Twitter, LinkedIn about the company and its products?
+* Customer Sentiment: [SEARCH] What recurring themes appear in user feedback across social platforms?
+* Brand Perception: Overall, how are they perceived in the market based on media and social signals?
+* Controversy Analysis: [SEARCH] Have there been any recent controversies or issues mentioned?
 
-## Product Strategy
-* Core Value Proposition: [Primary problem being solved]
-* Target Audience: [Key user personas and their needs]
-* Platform/Technology: [Key technical considerations]
-* Integration Strategy: [How it connects with other systems]
-* Future Direction: [Public statements about future direction]
+## Product Analysis
 
-## Customers
-* User Profiles: [Different customer segments and their characteristics]
-* Purchase Journey: [How customers buy and decide]
-* Onboarding Process: [How customers adopt the product]
-* Success Criteria: [How customers measure ROI]
-* User Challenges: [Common difficulties faced by customers]
-* App Stores: [Reviews and ratings, if applicable]
-* Third-party Sites: [Reviews and ratings on Product Hunt, G2, Capterra, if applicable]
-* Success Stories: [Published customer case studies or testimonials]
+### Product Strategy
+* Core Value Proposition: What primary problems do their products solve?
+* Target Audience: Who are their key user personas and what are their needs?
+* Platform/Technology: What are the foundational technical aspects of their products?
+* Integration Ecosystem: How do their products connect with other systems?
+* Future Direction: [SEARCH] What have they recently stated about their product roadmap?
 
-## Business Metrics
-* Growth Metrics: [Key performance indicators]
-* Revenue Metrics: [MRR/ARR, ACV, other revenue indicators]
-* Customer Health: [Retention, satisfaction metrics]
-* Platform Usage: [Engagement, adoption metrics]
-* Industry Benchmarks: [How these compare to industry standards]
+### Customers
+* User Profiles: Who are their different customer segments?
+* Purchase Journey: How do customers typically buy and decide?
+* Onboarding Process: How do customers adopt the product?
+* Success Criteria: How do customers measure ROI with this product?
+* User Challenges: [SEARCH] What common difficulties do customers face based on forum posts and reviews?
+* Public Reviews: [SEARCH] What ratings and feedback appear on app stores, G2, Capterra?
+* Success Stories: [SEARCH] What notable customer case studies or testimonials exist?
 
-## Technical Architecture
-* Technology Stack: [Core technologies and frameworks used]
-* API Approach: [Public API strategy and documentation]
-* Developer Ecosystem: [Is there a developer community?]
-* Security Standards: [Compliance and security certifications]
-* Technical Health: [Indicators of technical debt and architecture]
+### Business Metrics
+* Growth Metrics: What key performance indicators do they likely track?
+* Revenue Metrics: [SEARCH] What information is available on MRR/ARR or other indicators?
+* Customer Health: What can be determined about retention and satisfaction?
+* Platform Usage: What patterns of engagement and adoption are visible?
 
-## Product Execution
-* Decision Frameworks: [How product decisions are prioritized, resources are allocated]
-* Development Methodology: [Agile, waterfall, hybrid?]
-* Release Cadence: [Frequency and process for shipping]
-* Quality Standards: [Testing and validation approaches]
-* Customer Feedback Loops: [How they gather/use feedback]
-* Knowledge Management: [How they maintain, share knowledge]
+### Product Execution
+* Development Methodology: What approach do they use (Agile, etc.)?
+* Release Cadence: [SEARCH] How frequently do they ship updates?
+* Quality Standards: What testing and validation approaches do they use?
+* Customer Feedback: How do they gather and implement user feedback?
 
-# Role
-
-## Role & Team Structure
-* Product Ownership: [Which products/features fall under this role]
-* Hiring Motivation: [New growth hire, backfill, or restructure]
-* Hiring Timeline: [Urgency and process length]
-* Strategic Input: [Level of influence on product strategy]
-* Team Leadership: [Direct reports and team building expectations]
-* Team Composition: [Size and roles of immediate team]
-* Partner Relations: [Key cross-functional relationships]
-* Alumni Network: [Former team members and their insights]
-
-## Role Expectations
-* First 90 Days: [Initial priorities and quick wins]
-* Key Initiatives: [Major projects or launches to own]
-* Success Metrics: [How performance will be measured]
-* Stakeholder Management: [Key relationships to build]
-* Career Growth: [Potential progression paths]
-
-## Role Challenges
-* Current Bottlenecks: [Immediate challenges to address]
-* Resource Constraints: [Budget, headcount, or technical limitations]
-* Team Dynamics: [Any organizational complexity to navigate]
-* Market Pressures: [Competitive or market challenges affecting role]
-* Change Management: [Upcoming organizational changes]
+Please format your response in clear sections with bullet points where appropriate. Include citations for your information sources. If certain information isn't available, acknowledge this rather than speculating.
