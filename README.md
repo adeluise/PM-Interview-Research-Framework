@@ -1,27 +1,26 @@
-# PM-Interview-Research-Framework
-A comprehensive company and role research framework for product interview prep, optimized for Claude.
+# PM Interview Research
 
-## Start Here
+A structured prompt for starting your research before a PM interview, optimized for Claude's web search capabilities.
+
+## Quick Start
 
 - Fork this repo, then connect your repo to Claude
 - Or download the [markdown file](https://github.com/adeluise/PM-Interview-Research-Framework/blob/main/PM-Interview-Research-Framework.md)
-- Remember to replace `[Company Name]` with your target company in the prompt
-- Claude will search for sections marked with `[SEARCH]`
+- Replace `[Company Name]` with your target company in the prompt
 
 ## Tips 💡
-
 - Distinguish between public data and assumptions
 - Turn gaps into interview questions
 - Update after each round with new or confirmed information
 
-## Additional Research Suggestions 🕵️
+## Additional Research Tools 🔍
+- **Tech Stack**: [BuiltWith](https://builtwith.com/)
+- **App Analytics**: [SensorTower](https://sensortower.com/)
+- **Web Traffic**: [ahrefs](https://ahrefs.com/backlink-checker)
+- **News Monitoring**: [Google Alerts](https://www.google.com/alerts)
+- **Industry Trends**: [Google Trends](https://trends.google.com/trends/)
+- **User Reviews**: [Product Hunt](https://www.producthunt.com/), [G2](https://www.g2.com/)
+- **Reddit Analysis**: [GummySearch](https://gummysearch.com/)
 
-- Determine tech stack using [BuiltWith](https://builtwith.com/)
-- Get native app market analysis from [SensorTower](https://sensortower.com/)
-- Get web referral and traffic insights from [ahrefs](https://ahrefs.com/backlink-checker)
-- Monitor company and product news with [Google Alert](https://www.google.com/alerts)
-- Track industry trends and demand with [Google Trends](https://trends.google.com/trends/)
-- Read reviews on [Product Hunt](https://www.producthunt.com/) or [G2](https://www.g2.com/)
-- Analyze Reddit communities with [GummySearch](https://gummysearch.com/)
-
-Feel free to contribute - new templates, research tips, tool suggestions, prompts!
+## Contributing
+PRs welcome! Looking for new research strategies and tool recommendations.
